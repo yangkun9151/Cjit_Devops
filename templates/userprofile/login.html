@@ -1,0 +1,28 @@
+{% load staticfiles %}
+<head>
+  <title> 自动化管理</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <link href="{% static 'assets/css/dpl-min.css' %}" rel="stylesheet" type="text/css" />
+  <link href="{% static 'assets/css/bui-min.css' %}" rel="stylesheet" type="text/css" />
+   <link href="{% static 'assets/css/main-min.css' %}" rel="stylesheet" type="text/css" />
+</head>
+    <div class="container">
+        <div class="col-12">
+            <br>
+            <form method="post" action="." >
+                {% csrf_token %}
+                <!-- 账号 -->
+                <div class="form-group center">
+                    <label for="username">账号</label>
+                    <input type="text" class="form-control" id="username" name="username">
+                </div>
+                <!-- 密码 -->
+                <div class="form-group">
+                    <label for="password">密码</label>
+                    <input type="password" class="form-control" id="password" name="password">
+                </div>
+                <!-- 提交按钮 -->
+                <button type="submit" class="btn btn-primary">提交</button>
+            </form>
+        </div>
+</div>
