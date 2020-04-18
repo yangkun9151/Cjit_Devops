@@ -1,6 +1,6 @@
 from ldap3 import Server, Connection, ALL
 
-LDAP_URL = '10.103.52.129'
+LDAP_URL = '192.168.0.106'
 
 
 def get_LDAP_user(username, password):
