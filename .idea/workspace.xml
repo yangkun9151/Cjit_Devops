@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb0d0e0-e934-46c4-a983-77af353ef11c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/userprofile/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/userprofile/services.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevOps/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DevOps/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +20,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DevOps/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1020">
-              <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+            <state relative-caret-position="260">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -65,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userprofile/services.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
@@ -113,8 +113,8 @@
         <option value="$PROJECT_DIR$/templates/usermanage/user_list.html" />
         <option value="$PROJECT_DIR$/userprofile/views.py" />
         <option value="$PROJECT_DIR$/templates/servers/list.html" />
-        <option value="$PROJECT_DIR$/DevOps/settings.py" />
         <option value="$PROJECT_DIR$/userprofile/services.py" />
+        <option value="$PROJECT_DIR$/DevOps/settings.py" />
       </list>
     </option>
   </component>
@@ -236,12 +236,12 @@
       <workItem from="1587084937839" duration="633000" />
       <workItem from="1587133589323" duration="10000" />
       <workItem from="1587133651320" duration="276000" />
-      <workItem from="1587182670784" duration="1925000" />
+      <workItem from="1587182670784" duration="2230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46669000" />
+    <option name="totallyTimeSpent" value="46974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -464,17 +464,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DevOps/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020">
-          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/userprofile/services.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DevOps/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
